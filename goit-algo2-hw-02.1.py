@@ -42,3 +42,9 @@ for n in sizes:
     end_time = time.time()
     elapsed = end_time - start_time
     print(f"n={n}, час виконання ≈ {elapsed:.6f} секунд")
+
+
+
+
+
+
